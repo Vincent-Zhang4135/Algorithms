@@ -1,7 +1,11 @@
+################################
+#
 # Merge sort is an algorithm that reduces to time complexity of sorting
 # from O(n^2) naive approach to a O(nlogn). It uses a divide and conquer
 # paradigm to recursively sort subarrays before sorting the main array, 
 # reducing the number of times we need to "resort" from n times to logn times
+#
+################################
 
 import examples
 # merge sort is a function that takes into two sorted arrays, and 
